@@ -8,5 +8,13 @@ var d = undefined
 let x="harry";
 console.log(x)
 
+//let is box defined
+{
+    let x ="rajul";
+    console.log(x)
+}
+
+
+//const is constant
 const k= "kanhaiya"
 console.log(k)
